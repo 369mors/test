@@ -1,3 +1,15 @@
+body {
+  background-color: #111;
+}
+
+canvas {
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
 h1 {
   --color1: #1528ec;
   --color2: #ff0a0a;
